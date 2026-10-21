@@ -153,3 +153,4 @@ else:
 
 st.divider()
 st.caption("Smart Deadline Reminder | Stay productive!")
+python -m streamlit run app.py
